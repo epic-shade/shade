@@ -1,0 +1,26 @@
+{
+    "author" : [
+        "Airen",
+        "JennJenn",
+        "TrustyJAID"
+       "Evolve"
+    ],
+    "description" : "Elevating the art of insult",
+    "disabled" : false,
+    "hidden" : false,
+    "install_msg" : "Usage: `[p]shade <user>`",
+    "max_bot_version" : "0.0.0",
+    "min_bot_version" : "3.1.8",
+    "min_python_version" : [
+        3,
+        7,
+        2
+    ],
+    "name" : "shade",
+    "permissions" : [],
+    "required_cogs" : {},
+    "requirements" : [],
+    "short" : "Elevating the art of insult",
+    "tags" : [],
+    "type" : "COG"
+}
